@@ -23,6 +23,14 @@ Designed for classrooms or workplaces to automate daily attendance — fast, sec
 
 ## 📁 Project Structure
 
-<pre><code>```bash attendance_system/ ├── app.py # Main Streamlit app ├── models/ # Face detection & recognition models ├── face_db/ # Registered student faces ├── attendance_log.csv # Attendance records ├── requirements.txt # Dependencies └── README.md # This file ```</code></pre>
+```bash
+attendance_system/
+├── app.py                  # Main Streamlit app
+├── models/                 # Face detection & recognition models
+├── face_db/                # Registered student faces
+├── attendance_log.csv      # Attendance records
+├── requirements.txt        # Dependencies
+└── README.md               # This file
+```
 
 Made with ❤️ by Jeryann Tan
