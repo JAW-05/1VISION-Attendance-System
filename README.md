@@ -4,7 +4,7 @@ An AI-powered face recognition attendance system using OpenVINO and Streamlit.
 # 📸 1VISION Attendance System
 
 An AI-powered face recognition attendance system built using **OpenVINO** and **Streamlit**.  
-Designed for classrooms or workplaces to automate daily attendance — fast, secure, and hands-free!
+Designed for classrooms or workplaces to automate daily attendance to improve efficency!
 
 ## 💡 Features
 
